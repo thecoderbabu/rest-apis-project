@@ -5,3 +5,6 @@ __pycache__
 *.pyc
 .DS_STORE
 .vscode
+.env
+instance
+data.db
